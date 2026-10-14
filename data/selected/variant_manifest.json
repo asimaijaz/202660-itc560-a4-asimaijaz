@@ -1,0 +1,22 @@
+{
+  "id": "greenhouse-d",
+  "name": "Water-constrained greenhouse",
+  "temperature_offset": 1.2,
+  "humidity_offset": -8.0,
+  "soil_offset": -9.0,
+  "fault_window": [
+    90,
+    96
+  ],
+  "gateway_window": [
+    142,
+    148
+  ],
+  "dropout_window": [
+    44,
+    46
+  ],
+  "fault_zone": "south-bed",
+  "selected_at_utc": "2026-10-14T04:20:13+00:00",
+  "dataset_file": "greenhouse-d_sensor_readings.csv"
+}

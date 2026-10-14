@@ -1,0 +1,3 @@
+zone,air_temperature_c,relative_humidity_pct,soil_moisture_pct,co2_ppm,gateway_latency_ms,gateway_rssi_dbm,water_stress_count,severe_water_stress_count,device_health_risk_count,calibration_drift_count,actuator_mismatch_count,edge_action_priority_count
+north-bed,23.35,53.9,35.6,482.85,86.95,-64.58,157,74,6,0,142,9
+south-bed,22.77,56.33,38.53,485.7,94.95,-69.58,129,42,48,14,118,36
